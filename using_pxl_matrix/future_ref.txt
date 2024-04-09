@@ -1,0 +1,5 @@
+https://learn.adafruit.com/adafruit-neopixel-uberguide/neomatrix-library
+
+https://shop.pimoroni.com/products/adafruit-5x5-neopixel-grid-bff-add-on-for-qt-py-and-xiao?variant=40478003167315
+
+https://shop.pimoroni.com/products/adafruit-qt-py-esp32-s2-wifi-dev-board-with-stemma-qt?variant=39620155932755
